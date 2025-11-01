@@ -1,0 +1,486 @@
+/* table , th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+};
+th, td {
+    border: 1px solid black;
+    border-radius: 10px;
+} */
+ /* Frame */
+
+position: absolute;
+width: 2054px;
+height: 1089px;
+left: -22px;
+top: 92px;
+
+background: #000000;
+
+
+/* Group 2 */
+
+position: absolute;
+width: 1749.45px;
+height: 2290.18px;
+left: -376.51px;
+top: -707.84px;
+
+transform: rotate(55.09deg);
+
+
+/* noisy-gradients */
+
+position: absolute;
+width: 1749.45px;
+height: 2271.57px;
+left: -376.51px;
+top: -697.19px;
+
+background: url(.png), url(.png);
+transform: rotate(55.09deg);
+
+
+/* Rectangle 15 */
+
+position: absolute;
+width: 1571.32px;
+height: 2290.18px;
+left: -376.51px;
+top: -707.84px;
+
+background: linear-gradient(90deg, #000000 0%, rgba(0, 0, 0, 0) 92.58%);
+transform: rotate(55.09deg);
+
+
+/* home */
+
+position: absolute;
+width: 98px;
+height: 41px;
+left: 51px;
+top: 149px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -584.69%;
+top: 0%;
+bottom: 2.44%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 800;
+font-size: 128px;
+line-height: 40px;
+/* identical to box height, or 31% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* I’m Ralph */
+
+position: absolute;
+width: 622px;
+height: 40px;
+left: 76px;
+top: 321px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 128px;
+line-height: 40px;
+/* identical to box height, or 31% */
+
+color: #FFFFFF;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 149px;
+top: 1049px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -281.25%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 40px;
+/* identical to box height, or 167% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 76px;
+top: 505px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -676.04%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 40px;
+/* identical to box height, or 100% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* tech 3 1 */
+
+position: absolute;
+width: 950.42px;
+height: 594.79px;
+left: 1036.77px;
+top: 41.88px;
+
+background: url(tech 3.jpg);
+border-radius: 61px;
+transform: rotate(0.18deg);
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 76px;
+top: 592px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -872.92%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 40px;
+/* identical to box height, or 111% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 76px;
+top: 668px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -661.46%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 602px;
+top: 1050px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -107.29%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 881px;
+top: 1049px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -351.04%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 77px;
+top: 720px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -1068.75%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 78px;
+top: 822px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -505.21%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* home */
+
+position: absolute;
+width: 96px;
+height: 40px;
+left: 76px;
+top: 936px;
+
+
+
+/* home */
+
+position: absolute;
+left: 0%;
+right: -732.29%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+/* identical to box height, or 125% */
+
+color: #FFFFFF;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+left: 50%;
+right: 48.96%;
+top: 50%;
+bottom: 47.5%;
+
+
+
+/* tech 2 1 */
+
+position: absolute;
+width: 717px;
+height: 367px;
+left: 1272px;
+top: 668px;
+
+background: url(tech 2.jpg);
+border-radius: 20px;
